@@ -16,7 +16,7 @@ To analyze crowdfunding performance across project categories, funding goals, ca
 
 ## Dataset
 
-- **Source:** Kaggle (Kickstarter Projects Dataset)
+- **Source:** Internship Project
 - **Period:** 2009 – 2018
 - **Fields include:** Project name, category, country, launch date, deadline, funding goal, pledged amount, backers, campaign duration and project outcome
 
@@ -62,7 +62,13 @@ To analyze crowdfunding performance across project categories, funding goals, ca
 
 ## Dashboard Preview
 
-![dashboard]()
+![dashboard](https://github.com/DataAnalyst-Komal/kickstarter-crowdfunding-analysis/blob/main/Kickstarter%20Crowdfunding%20Overview.PNG)
+
+![dashboard](https://github.com/DataAnalyst-Komal/kickstarter-crowdfunding-analysis/blob/main/Campaign%20Success%20Analysis.PNG)
+
+![dashboard](https://github.com/DataAnalyst-Komal/kickstarter-crowdfunding-analysis/blob/main/Top%2010%20Performance%20Analysis.PNG)
+
+![dashboard](https://github.com/DataAnalyst-Komal/kickstarter-crowdfunding-analysis/blob/main/Geographic%20Funding%20Analysis.PNG)
 
 
 ## Learnings
